@@ -1,0 +1,1 @@
+All info refer to http://godosou.wordpress.com/2012/09/01/create-a-email-informer-of-a-event-on-gae/

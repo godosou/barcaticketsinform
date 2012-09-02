@@ -1,0 +1,3 @@
+backends:
+- name: ticketchecker
+  start: ticketchecker.py

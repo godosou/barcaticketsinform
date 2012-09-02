@@ -1,0 +1,4 @@
+cron:
+- description: check tickets every 1 minute
+  url: /checkticket
+  schedule: every 1 minutes

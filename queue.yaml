@@ -1,0 +1,6 @@
+total_storage_limit: 120M
+queue:
+- name: checkticket
+  rate: 100/s
+- name: sendmail
+  rate: 100/s
